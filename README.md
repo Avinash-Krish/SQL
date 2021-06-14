@@ -1,3 +1,3 @@
 # SQL
 
-A repository to store my SQL related files
+A repository to store my SQL related 
