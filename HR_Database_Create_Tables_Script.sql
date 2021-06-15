@@ -4,11 +4,11 @@
 
 -- Drop the tables in case they exist
 
-DROP TABLE EMPLOYEES;
-DROP TABLE JOB_HISTORY;
-DROP TABLE JOBS;
-DROP TABLE DEPARTMENTS;
-DROP TABLE LOCATIONS;
+-- DROP TABLE EMPLOYEES;
+-- DROP TABLE JOB_HISTORY;
+-- DROP TABLE JOBS;
+-- DROP TABLE DEPARTMENTS;
+-- DROP TABLE LOCATIONS;
 
 -- Create the tables
 
@@ -56,3 +56,5 @@ CREATE TABLE LOCATIONS (
                           DEP_ID_LOC CHAR(9) NOT NULL,
                           PRIMARY KEY (LOCT_ID,DEP_ID_LOC)
                         );
+
+                        
