@@ -1,2 +1,5 @@
 *.code-workspace
 #ignoring the workspace file
+
+*.csv
+#ignoring the excel files
