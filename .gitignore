@@ -3,3 +3,6 @@
 
 *.csv
 #ignoring the excel files
+
+*.ipynb
+#ignoring the jupyternotebook files
