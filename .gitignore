@@ -6,3 +6,6 @@
 
 *.ipynb
 #ignoring the jupyternotebook files
+
+.pdf
+#ignoring pdf files
